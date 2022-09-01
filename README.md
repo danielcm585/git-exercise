@@ -4,4 +4,4 @@ NPM   : 2106630006
 
 Kelas : E
 
-Hobi  : Ngoding
+Hobi  : Ngoding, Tidur
